@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  static-html-website:
+    image: nontapanchanadee/640610645:final
+    ports:
+      - "8645:80"
